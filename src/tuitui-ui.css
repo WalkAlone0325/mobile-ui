@@ -15,3 +15,6 @@
 @import './input.css';
 /* button样式 */
 @import './button.css';
+
+/* 组件总样式 */
+@import '../components/index.css';
