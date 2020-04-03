@@ -13,6 +13,7 @@
   border-bottom: 1px solid #ddd;
   background: #f8f8f8;
 }
+
 /* 左侧功能区 */
 .tt-header > .left {
   flex-basis: 3rem;
