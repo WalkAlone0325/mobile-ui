@@ -41,7 +41,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
-div {
+div.item-content-wrap {
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;

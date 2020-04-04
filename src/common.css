@@ -1,6 +1,7 @@
 /* 屏幕宽度在340px至410px时，基准尺寸使用20px */
 html {
   font-size: 20px;
+  height: 100%;
 }
 /* 屏幕宽度小于340px时，基准尺寸使用18px */
 @media (max-width: 340px) {
@@ -18,6 +19,7 @@ html {
 /* body默认样式 */
 body {
   max-width: 640px;
+  height: 100%;
   margin: 0 auto;
   background: #f8f8f8;
   overflow-x: hidden;

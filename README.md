@@ -26,7 +26,7 @@
         layout.css  (组件文件：图标样式)
         navbar.css  (底部样式)
         reset.css   (重置样式)
-        tuitui-ui.css (主文件样式)
+        mobile-ui.css (主文件样式)
 ```
 
 ## 常用样式组件的设计和开发
@@ -63,7 +63,11 @@
 
 ### 8. ActionSheet 选择组件的设计与开发
 
+![ActionSheet 选择组件](./img/action-sheet.png)
+
 ### 9. Article 文本样式的设计与开发
+
+![Article文本样式](./img/article.png)
 
 ## 效果图
 

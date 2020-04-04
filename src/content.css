@@ -2,6 +2,7 @@
 .tt-content {
   box-sizing: border-box;
   position: relative;
+  height: 100%;
   overflow-y: auto;
 }
 /* 根据header和navbar自动适应内容区高度 */

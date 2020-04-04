@@ -1,0 +1,26 @@
+{
+  "name": "mobile-ui",
+  "version": "1.0.0",
+  "description": "mobile-ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalkAlone0325/mobile-ui.git"
+  },
+  "keywords": [
+    "ui",
+    "mobile-ui"
+  ],
+  "author": "独行",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalkAlone0325/mobile-ui/issues"
+  },
+  "homepage": "https://github.com/WalkAlone0325/mobile-ui#readme",
+  "devDependencies": {
+    "postcss-cli": "^6.1.3"
+  }
+}

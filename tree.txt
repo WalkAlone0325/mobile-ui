@@ -27,5 +27,5 @@ F:.
         layout.css
         navbar.css
         reset.css
-        tuitui-ui.css
+        mobile-ui.css
         
